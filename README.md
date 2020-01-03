@@ -7,12 +7,20 @@ On The Map is an iOS app that allows Udacity students posting their location usi
 
 
 This project focused on working with Networking and GCD
+
 Making Network Request (Get , Post , Put , Delete)
+
 Using a web serves
+
 Parsing JSON file using Codable (Decodable , Encodable)
+
 Asynchronous Requests
+
 Authentication Requests
+
 MVC Pattern with Network (Create Cleaner Code) GCD and Queues
 
+
 Requirements
+
 This app need Free Account from Udacity website to use it
